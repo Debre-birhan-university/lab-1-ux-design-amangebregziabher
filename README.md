@@ -38,5 +38,3 @@ Upload the following files directly to your repository via the browser:
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
 > draw.io
-https://drive.google.com/file/d/1LPcUQneKV-43EB_wATR1zM1NAE1YlrjX/view?usp=sharing (Telebirr link)
-https://drive.google.com/file/d/1F5mH05DlMXdXg5biYMXSOJJGm2pT1l6D/view?usp=sharing (Tutorial Proof)
